@@ -1,6 +1,4 @@
-flask==2.3.3
-kokoro==0.2.1
+Flask==2.3.2
+kokoro-tts==1.0.0
 soundfile==0.12.1
-numpy==1.24.4
-misaki==0.1.0
-gunicorn==21.2.0
+numpy==1.23.5

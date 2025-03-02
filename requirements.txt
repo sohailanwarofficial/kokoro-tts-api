@@ -3,4 +3,4 @@ kokoro==0.8.4
 soundfile==0.12.1
 misaki==0.8.4
 gunicorn==21.2.0
-Werkzeug==2.0.3
+Werkzeug==3.1.3

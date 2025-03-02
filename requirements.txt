@@ -1,4 +1,4 @@
 Flask==2.1.2
 kokoro==0.8.4
 soundfile==0.10.3
-misaki==<version_for_non-english_languages>
+misaki==0.8.4
